@@ -73,7 +73,7 @@ rtmp://<server_ip>/live
 
 e em Stream Key com a chave de acesso da stream local.
 
-![](https:/github.com/PEQUI-MEC/PEQUI-ACADEMY/blob/master/docs/assets/obs_custom_server_config.png)
+![](https://github.com/PEQUI-MEC/PEQUI-ACADEMY/blob/master/docs/assets/obs_custom_server_config.png)
 
 # Blog
 
